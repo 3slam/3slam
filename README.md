@@ -4,8 +4,8 @@
 ---
 
 🌍 **Location:** Cairo, Egypt  
-💼 **Current Role:** Backend .NET Engineer @ Traveler Club SA   
-🌐 **Portfolio:** [LinkedIn](https://www.linkedin.com/in/eslammohs7n) | [GitHub](https://github.com/3slam) | [FaceBook]((https://www.facebook.com/3slammohsen)) 
+💼 **Current Role:** Backend .NET Engineer @ Traveler Club SA  
+🌐 **Portfolio:** [LinkedIn](https://www.linkedin.com/in/eslammohs7n) | [GitHub](https://github.com/3slam) | [FaceBook](https://www.facebook.com/3slammohsen)
 📬 **Email:** 3slammohsen@gmail.com  
 
 ---
